@@ -1,0 +1,117 @@
+@font-face {
+    font-family: govind;
+    src: url(Poppins-Bold.ttf);
+}
+#one{
+    color: gray;
+}
+#two:hover{
+    color: blue;
+}
+#three:hover{
+    color: blue;
+}
+#four{
+    padding: 0.2rem 0.5rem;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    border: 1px solid #ccc;
+    background-color: black;
+    color: white;
+    transition: 0.2s;
+}
+#four:hover{
+    background-color: white;
+    color: black;
+}
+#five{
+    padding: 0.3rem 0.7rem;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    background-color: blue;
+    color: white;
+}
+.nav_two h1{
+    font-family: govind;
+}
+#six{
+    position: absolute;
+    bottom: 7%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 1rem 2.5rem;
+    border-radius: 30px;
+    background-color: transparent;
+    border: 2px solid black;
+    font-size: 1.4rem;
+    font-family: govind;
+}
+#seven {
+    padding: 10px 20px ;
+    border: none;
+    background-color: #ff823d;
+    color: #fff;
+    font-weight: 400;
+    border-radius: 50px;
+    font-size: 1.3vw;
+    margin-top: 1.5vw;
+}
+#eight{
+    position: absolute;
+    bottom: 10%;
+    padding: 10px 20px;
+    font-size: 1.5vw;
+    border-radius: 50px;
+    background-color: #ff823d;
+    color: #fff;
+    font-weight: 500;
+    border: none;
+}
+#left{
+    position: absolute;
+    top: 41%;
+    left: 1%;
+    font-size: 5rem;
+    background: transparent;
+    color: white;
+    border: none;
+}
+#right{
+    position: absolute;
+    top: 41%;
+    right: 1%;
+    font-size: 5rem;
+    background: transparent;
+    color: white;
+    border: none;
+}
+#nine{
+    margin-top: 30px;
+    padding: 1rem 2rem;
+    border-radius:50px ;
+    background-color: #fff;
+    border: none;
+    color: black;
+    font-size: 1rem;
+    font-family: govind;
+}
+#ten{
+    margin-top: 30px;
+    padding: 1rem 2rem;
+    border-radius:50px ;
+    background-color: orangered;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    font-family: govind;
+}
+#p_1{
+    font-size: 1.5rem;
+    color: blue;
+    border-bottom: 1px solid transparent;
+}
+#p_1:hover{
+    border-bottom: 1px solid blue;
+}
